@@ -37,3 +37,15 @@ We can conclude from the analysis above that customers who accepted coffee house
 5. **Avoid high-volume low-margin brands** — Fiat, Mitsubishi, Kia unless acquisition price reflects market discount
 6. **Always verify clean title** — a lien or salvage title significantly erodes value
 7. **Prioritize diesel and large engine vehicles** — strong price premium especially for work trucks
+
+
+# Module 17
+
+# Practical Application III: [Comparing Classifiers](module_17/module17_starter/prompt_III.ipynb)
+
+## Overview
+This project compares the performance of four classification models — 
+Logistic Regression, K-Nearest Neighbors, Decision Tree, and Linear SVC — 
+applied to a real-world bank marketing dataset. The goal is to predict 
+whether a client will subscribe to a term deposit following a telephone 
+marketing campaign.
